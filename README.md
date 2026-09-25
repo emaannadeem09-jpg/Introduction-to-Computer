@@ -27,3 +27,20 @@ Computers are categorized based on their speed, capacity, and size:
 - [x] Create a separate branch
 - [ ] Complete documentation
 - [ ] Create Pull Request
+
+## History of Computers
+The history of computing is often broken down into generations:
+
+| Generation | Era | Key Technology | Example |
+| :--- | :--- | :--- | :--- |
+| **First** | 1940–1956 | Vacuum Tubes | ENIAC |
+| **Second** | 1956–1963 | Transistors | IBM 1401 |
+| **Third** | 1964–1971 | Integrated Circuits | IBM System/360 |
+| **Fourth** | 1971–Present | Microprocessors | Intel 4004 |
+
+### Sample Code
+Here is a simple Python code snippet to greet the user:
+```python
+def greet():
+    print("Welcome to Introduction to Computers!")
+greet()
